@@ -23,7 +23,7 @@ Inspired by GNOME extension [Easy Docker Containers](https://extensions.gnome.or
 ### Using DMS cli
 
 ```sh
-dms plugins install dockerManager
+hype plugins install dockerManager
 ```
 
 ### Using DMS Settings
